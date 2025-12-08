@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/programm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "programm"
             }
           }
         ],
@@ -282,28 +282,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "745d85c9896d51a0",
+  "active": "b36f71fec9151fa7",
   "lastOpenFiles": [
-    "docs/start.md",
+    "site/index.html",
+    "site/programm/index.html",
+    "site/programm",
+    "site/speakers/index.html",
+    "site/speakers",
+    "site/faq/index.html",
+    "site/faq",
+    "site/404.html",
+    "docs/sessions.md",
+    "docs/programm.md",
     "docs/index.md",
+    "docs/start.md",
     "docs/faq.md",
     "site/program/index.html",
     "site/program",
     "docs/participation.md",
     "docs/venue.md",
     "docs/speakers.md",
-    "docs/sessions.md",
-    "docs/program.md",
     "program.md",
-    "docs/index.md",
     "docs/markdown.md",
-    "site/start/index.html",
-    "site/start",
-    "site/faq/index.html",
-    "site/faq",
-    "site/participation/index.html",
-    "site/participation",
-    "site/venue/index.html",
-    "site/venue"
+    "site/start/index.html"
   ]
 }
