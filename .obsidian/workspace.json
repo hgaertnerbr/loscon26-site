@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/programm.md",
+                "file": "docs/index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "programm"
+              "title": "index.md"
             }
           }
         ],
@@ -284,6 +284,11 @@
   },
   "active": "b36f71fec9151fa7",
   "lastOpenFiles": [
+    "docs/sessions.md",
+    "docs/programm.md",
+    "docs/index.md.md",
+    "docs/index.md",
+    "docs/faq.md",
     "site/index.html",
     "site/programm/index.html",
     "site/programm",
@@ -292,18 +297,12 @@
     "site/faq/index.html",
     "site/faq",
     "site/404.html",
-    "docs/sessions.md",
-    "docs/programm.md",
-    "docs/index.md",
-    "docs/start.md",
-    "docs/faq.md",
     "site/program/index.html",
     "site/program",
     "docs/participation.md",
     "docs/venue.md",
     "docs/speakers.md",
     "program.md",
-    "docs/markdown.md",
-    "site/start/index.html"
+    "docs/markdown.md"
   ]
 }
