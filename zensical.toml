@@ -18,13 +18,13 @@ Copyright &copy; 2025 Hans Gaertner
 
 # Navigation – die Dateinamen rechts müssen in docs/ exakt so existieren
 nav = [
-  { "Startseite"                 = "index.md" },
-  { "Programmübersicht"          = "programm.md" },
-  { "Sessions & Workshops"       = "sessions.md" },
-  { "Speaker:innen der loscon26" = "speakers.md" },
-  { "Ort & Anreise"              = "venue.md" },
-  { "Teilnahme & Anmeldung"      = "participation.md" },
-  { "FAQ – Häufige Fragen"       = "faq.md" }
+  { "Startseite"                 = "index" },
+  { "Programmübersicht"          = "programm" },
+  { "Sessions & Workshops"       = "sessions" },
+  { "Speaker:innen der loscon26" = "speakers" },
+  { "Ort & Anreise"              = "venue" },
+  { "Teilnahme & Anmeldung"      = "participation" },
+  { "FAQ – Häufige Fragen"       = "faq" }
 ]
 
 # ----------------------------------------------------------------------------
