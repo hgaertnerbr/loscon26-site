@@ -9,32 +9,17 @@ Willkommen zur **loscon26** – der Community-Konferenz rund um Lernen, Zusammen
 
 ## Entdecke die loscon26
 
-<div class="feature-grid">
-
-### 🗓️ Programm  
+### 🗓️ Programm
 Erlebe zwei Tage voller Impulse, Workshops und Sessions.  
 [Programm ansehen →](programm.md)
 
-### 🎙️ Speaker:innen  
+### 🎙️ Speaker:innen
 Experten, Praktiker:innen und Visionäre aus verschiedenen Bereichen.  
 [Alle Speaker:innen →](speakers.md)
 
-### 🧩 Sessions & Workshops  
+### 🧩 Sessions & Workshops
 Vielfältige Formate: Praxis, Austausch, co-kreierendes Lernen.  
 [Sessions entdecken →](sessions.md)
-
-</div>
-
----
-
-## Überblick
-
-Die loscon26 bringt Praktiker:innen, Forschende und Interessierte zusammen, um neue Impulse zu New Work, Lernkultur und Leadership auszutauschen.
-
-- 📅 **Datum:** 17.–18. Oktober 2026  
-- 📍 **Ort:** Kaiserburg Nürnberg, Satelliten und Online  
-- 🎯 **Thema:** „Gemeinsam Zukunft gestalten“
-
 ---
 
 ## Highlights
