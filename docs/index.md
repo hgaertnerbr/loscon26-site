@@ -1,11 +1,16 @@
 # loscon26
 
-> **17.–18. Oktober 2026 • Kaiserburg Nürnberg & Online**  
-> **Gemeinsam Zukunft gestalten.**
+!!! info ""
+    **17.–18. Oktober 2026 · Kaiserburg Nürnberg & Online**  
+    **Gemeinsam Zukunft gestalten.**
 
-Willkommen zur **loscon26** – der Community-Konferenz rund um Lernen, Zusammenarbeit, New Work und digitale Kompetenzen.
+    Willkommen zur **loscon26** – der Community-Konferenz rund um Lernen, Zusammenarbeit, New Work und digitale Kompetenzen.
 
-[➡️ Zum Programm](programm.md){ .md-button }
+    [➡️ Zum Programm](programm.md){ .md-button }
+    [🧩 Sessions](sessions.md){ .md-button }
+    [🎙️ Speaker:innen](speakers.md){ .md-button }
+
+---
 
 ## Entdecke die loscon26
 
@@ -14,12 +19,23 @@ Erlebe zwei Tage voller Impulse, Workshops und Sessions.
 [Programm ansehen →](programm.md)
 
 ### 🎙️ Speaker:innen
-Experten, Praktiker:innen und Visionäre aus verschiedenen Bereichen.  
+Expert:innen, Praktiker:innen und Visionäre aus verschiedenen Bereichen.  
 [Alle Speaker:innen →](speakers.md)
 
 ### 🧩 Sessions & Workshops
 Vielfältige Formate: Praxis, Austausch, co-kreierendes Lernen.  
 [Sessions entdecken →](sessions.md)
+
+---
+
+## Überblick
+
+Die loscon26 bringt Praktiker:innen, Forschende und Interessierte zusammen, um neue Impulse zu New Work, Lernkultur und Leadership auszutauschen.
+
+- 📅 **Datum:** 17.–18. Oktober 2026  
+- 📍 **Ort:** Kaiserburg Nürnberg, Satelliten und Online  
+- 🎯 **Thema:** „Gemeinsam Zukunft gestalten“
+
 ---
 
 ## Highlights
@@ -38,6 +54,7 @@ Vielfältige Formate: Praxis, Austausch, co-kreierendes Lernen.
 
 - [🗓️ Programmübersicht](programm.md)  
 - [🎙️ Speaker:innen](speakers.md)  
+- [🧩 Sessions & Workshops](sessions.md)  
 - [📍 Ort & Anreise](venue.md)  
 - [✋ Teilnahme & Anmeldung](participation.md)  
 - [❓ FAQ](faq.md)
